@@ -277,7 +277,7 @@ function getVolcabInfo(index) {
   div.innerHTML = questions[index].numb + ". " + questions[index].question;
   for (let i = 0; i < questions.length; i++) {}
 
-  $.getJSON("toiec4u/js/listvacab.json", function (data) {
+  $.getJSON("/js/listvacab.json", function (data) {
     var vocab;
     var voice;
     var word_type;
