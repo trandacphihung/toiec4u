@@ -277,7 +277,7 @@ function getVolcabInfo(index) {
   div.innerHTML = questions[index].numb + ". " + questions[index].question;
   for (let i = 0; i < questions.length; i++) {}
 
-  $.getJSON("https://github.com/trandacphihung/toiec4u/js/listvacab.json", function (data) {
+  $.getJSON("https://trandacphihung.github.io/toiec4u/js/listvacab.json", function (data) {
     var vocab;
     var voice;
     var word_type;
@@ -351,7 +351,7 @@ function getVolcabInfo(index) {
         listofphonetic[j] +
         '</span><hr><a href="#" class ="aud-' +
         listofvocabRender[j] +
-        '"><img src="https://github.com/trandacphihung/toiec4u//image/audio_name_initial.svg" alt=""></a>';
+        '"><img src="https://trandacphihung.github.io/toiec4u/image/audio_name_initial.svg" alt=""></a>';
 
       contentDetailList.push(contentDetail);
 
