@@ -1,0 +1,234 @@
+<!-- Created By CodingNepal - www.codingnepalweb.com  -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Awesome Quiz App | CodingNepal</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- FontAweome CDN Link for Icons-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+    />
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- /*
+        How to start app:
+        1. npm install -g http-server
+        2. Change into your working directory, where index.html lives
+        3. Start your http server by issuing http-server -c-1
+        4. http://192.168.1.9:8080/index.html#
+        */
+    /*
+        How to Host a Website On Github
+        https://www.youtube.com/watch?v=8hrJ4oN1u_8
+        How To add a Custom Domain On Github Pages
+        https://www.youtube.com/watch?v=mPGi1IHQxFM&t=0s
+    */ -->
+  </head>
+  <body>
+    <!-- start Quiz button -->
+    <!-- <div class="start_btn"><button>Start Quiz</button></div> -->
+    <div
+      class="
+        d-flex
+        flex-column
+        min-vh-100
+        justify-content-center
+        align-items-center
+        start_btn
+      "
+    >
+      <button class="btn btn-primary btn-lg">Start Quiz</button>
+    </div>
+
+    <!-- Info Box -->
+    <div class="info_box">
+      <div class="info-title"><span>Some Rules of this Quiz</span></div>
+      <div class="info-list">
+        <div class="info">
+          1. You will have only <span>15 seconds</span> per each question.
+        </div>
+        <div class="info">
+          2. Once you select your answer, it can't be undone.
+        </div>
+        <div class="info">
+          3. You can't select any option once time goes off.
+        </div>
+        <div class="info">
+          4. You can't exit from the Quiz while you're playing.
+        </div>
+        <div class="info">
+          5. You'll get points on the basis of your correct answers.
+        </div>
+      </div>
+      <div class="buttons">
+        <button class="quit">Exit Quiz</button>
+        <button class="restart">Continue</button>
+      </div>
+    </div>
+
+    <!-- Quiz Box -->
+    <div class="quiz_box">
+      <header>
+        <div class="title">Awesome Quiz Application</div>
+        <div class="timer">
+          <div class="time_left_txt">Time Left</div>
+          <div class="timer_sec">15</div>
+        </div>
+        <div class="time_line"></div>
+      </header>
+      <section>
+        <div class="que_text">
+          <div id="set_question"></div>
+          <!-- Here I've inserted question from JavaScript -->
+        </div>
+        <div class="option_list">
+          <!-- Here I've inserted options from JavaScript -->
+        </div>
+
+        <div id="set_audio"></div>
+      </section>
+
+      <!-- footer of Quiz Box -->
+      <footer>
+        <div class="total_que">
+          <!-- Here I've inserted Question Count Number from JavaScript -->
+        </div>
+        <button class="next_btn">Next Que</button>
+      </footer>
+
+      <hr />
+      <div class="accordion" id="accordionExample">
+        <div class="card">
+          <div class="card-header" id="headingOne">
+            <h2 class="mb-0">
+              <button
+                type="button"
+                class="btn btn-link"
+                data-toggle="collapse"
+                data-target="#collapseOne"
+              >
+                1. What is HTML?
+              </button>
+            </h2>
+          </div>
+          <div
+            id="collapseOne"
+            class="collapse"
+            aria-labelledby="headingOne"
+            data-parent="#accordionExample"
+          >
+            <div class="card-body">
+              <p>
+                HTML stands for HyperText Markup Language. HTML is the standard
+                markup language for describing the structure of web pages.
+                <a
+                  href="https://www.tutorialrepublic.com/html-tutorial/"
+                  target="_blank"
+                  >Learn more.</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingTwo">
+            <h2 class="mb-0">
+              <button
+                type="button"
+                class="btn btn-link collapsed"
+                data-toggle="collapse"
+                data-target="#collapseTwo"
+              >
+                2. What is Bootstrap?
+              </button>
+            </h2>
+          </div>
+          <div
+            id="collapseTwo"
+            class="collapse show"
+            aria-labelledby="headingTwo"
+            data-parent="#accordionExample"
+          >
+            <div class="card-body">
+              <p>
+                Bootstrap is a sleek, intuitive, and powerful front-end
+                framework for faster and easier web development. It is a
+                collection of CSS and HTML conventions.
+                <a
+                  href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/"
+                  target="_blank"
+                  >Learn more.</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header" id="headingThree">
+            <h2 class="mb-0">
+              <button
+                type="button"
+                class="btn btn-link collapsed"
+                data-toggle="collapse"
+                data-target="#collapseThree"
+              >
+                3. What is CSS?
+              </button>
+            </h2>
+          </div>
+          <div
+            id="collapseThree"
+            class="collapse"
+            aria-labelledby="headingThree"
+            data-parent="#accordionExample"
+          >
+            <div class="card-body">
+              <p>
+                CSS stands for Cascading Style Sheet. CSS allows you to specify
+                various style properties for a given HTML element such as
+                colors, backgrounds, fonts etc.
+                <a
+                  href="https://www.tutorialrepublic.com/css-tutorial/"
+                  target="_blank"
+                  >Learn more.</a
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Result Box -->
+    <div class="result_box">
+      <div class="icon">
+        <i class="fas fa-crown"></i>
+      </div>
+      <div class="complete_text">You've completed the Quiz!</div>
+      <div class="score_text">
+        <!-- Here I've inserted Score Result from JavaScript -->
+      </div>
+      <div class="buttons">
+        <button class="restart">Replay Quiz</button>
+        <button class="quit">Quit Quiz</button>
+      </div>
+    </div>
+
+    <!-- Inside this JavaScript file I've inserted Questions and Options only -->
+    <script src="js/questions.js"></script>
+
+    <!-- Inside this JavaScript file I've coded all Quiz Codes -->
+    <script src="js/script.js"></script>
+
+    <script src="js/volcabulary.js"></script>
+  </body>
+</html>
