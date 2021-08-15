@@ -9,6 +9,8 @@ const option_list = document.querySelector(".option_list");
 const time_line = document.querySelector("header .time_line");
 const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
+const spinnerCircle = document.getElementById("spinnerCircle");
+const spinnerText = document.getElementById("spinnerText");
 let indexques;
 
 // if startQuiz button clicked
@@ -22,15 +24,25 @@ exit_btn.onclick = () => {
 };
 
 // if continueQuiz button clicked
-continue_btn.onclick = () => {
+continue_btn.onclick = async () => {
   start_btn.remove();
   info_box.classList.remove("activeInfo"); //hide info box
-  quiz_box.classList.add("activeQuiz"); //show quiz box
-  showQuetions(0); //calling showQestions function
-  getVolcabInfo(0);
-  queCounter(1); //passing 1 parameter to queCounter
-  startTimer(15); //calling startTimer function
-  startTimerLine(0); //calling startTimerLine function
+
+  spinnerCircle.style.display = "inline-block";
+  spinnerText.style.display = "inline-block";
+
+  await getVolcabInfo(0);
+
+  setTimeout(() => {
+    spinnerCircle.style.display = "none";
+    spinnerText.style.display = "none";
+    quiz_box.classList.add("activeQuiz"); //show quiz box
+    showQuetions(0); //calling showQestions function
+    getQuestion(que_count);
+    queCounter(1); //passing 1 parameter to queCounter
+    startTimer(15); //calling startTimer function
+    startTimerLine(0); //calling startTimerLine function
+  }, 3000);
 };
 
 let timeValue = 15;
@@ -40,6 +52,8 @@ let userScore = 0;
 let counter;
 let counterLine;
 let widthValue = 0;
+let questions;
+questions = questions1;
 
 const restart_quiz = result_box.querySelector(".buttons .restart");
 const quit_quiz = result_box.querySelector(".buttons .quit");
@@ -54,7 +68,8 @@ restart_quiz.onclick = () => {
   userScore = 0;
   widthValue = 0;
   showQuetions(que_count); //calling showQestions function
-  getVolcabInfo(que_count);
+  getQuestion(que_count);
+  //getVolcabInfo(que_count);
   queCounter(que_numb); //passing que_numb value to queCounter
   clearInterval(counter); //clear counter
   clearInterval(counterLine); //clear counterLine
@@ -80,7 +95,8 @@ next_btn.onclick = () => {
     que_numb++; //increment the que_numb value
     indexques = que_count;
     showQuetions(que_count); //calling showQestions function
-    getVolcabInfo(que_count);
+    getQuestion(que_count);
+    //getVolcabInfo(que_count);
     queCounter(que_numb); //passing que_numb value to queCounter
     clearInterval(counter); //clear counter
     clearInterval(counterLine); //clear counterLine
@@ -99,7 +115,7 @@ next_btn.onclick = () => {
 // getting questions and options from array
 function showQuetions(index) {
   const que_text = document.querySelector(".que_text");
-
+  const explain = document.querySelector(".explainquestion");
   //creating a new span and div tag for question and option and passing the value using array index
   let que_tag =
     "<span>" +
@@ -125,6 +141,8 @@ function showQuetions(index) {
   option_list.innerHTML = option_tag; //adding new div tag inside option_tag
 
   const option = option_list.querySelectorAll(".option");
+
+  explain.innerHTML = questions[index].explain;
 
   // set onclick attribute to all available options
   for (i = 0; i < option.length; i++) {
@@ -170,6 +188,9 @@ function optionSelected(answer) {
   next_btn.classList.add("show"); //show the next button if user selected any option
 
   showExplain();
+
+  const explainshow = document.querySelector(".explainshow");
+  explainshow.classList.remove("show");
 }
 
 function showExplain() {
@@ -245,6 +266,7 @@ function startTimer(time) {
         option_list.children[i].classList.add("disabled"); //once user select an option then disabled all options
       }
       next_btn.classList.add("show"); //show the next button if user selected any option
+      showExplain();
     }
   }
 }
@@ -272,21 +294,27 @@ function queCounter(index) {
   bottom_ques_counter.innerHTML = totalQueCounTag; //adding new span tag inside bottom_ques_counter
 }
 
-function getVolcabInfo(index) {
+function getQuestion(index) {
   var div = document.getElementById("set_question");
   div.innerHTML = questions[index].numb + ". " + questions[index].question;
+}
+
+async function getVolcabInfo(index) {
   for (let i = 0; i < questions.length; i++) {}
 
-  $.getJSON("https://trandacphihung.github.io/toiec4u/js/listvacab.json", function (data) {
+  $.getJSON("/js/listvacab.json", function (data) {
     var vocab;
     var voice;
     var word_type;
     var phonetic;
     var meaning;
+    var link;
     var listofvocab = [];
     var listofwordtype = [];
     var listofphonetic = [];
     var listofmeaning = [];
+    var listoflink = [];
+    var listofvoice = [];
     var templateDetail =
       '<div class="popover">' +
       '<div class="arrow"></div>' +
@@ -321,11 +349,14 @@ function getVolcabInfo(index) {
       word_type = data.dictionary[i].word_type;
       phonetic = data.dictionary[i].phonetic;
       meaning = data.dictionary[i].meaning;
+      link = data.dictionary[i].link;
+      voice = data.dictionary[i].voice_e;
       listofvocab.push(vocab);
       listofwordtype.push(word_type);
       listofphonetic.push(phonetic);
       listofmeaning.push(meaning);
-      voice = data.dictionary[i].voice_e;
+      listoflink.push(link);
+      listofvoice.push(voice);
       var div = document.getElementById("set_audio");
       div.innerHTML =
         div.innerHTML +

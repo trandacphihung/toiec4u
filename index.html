@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Awesome Quiz App | CodingNepal</title>
     <link rel="stylesheet" href="style.css" />
-    <!-- FontAweome CDN Link for Icons--> 
+    <!-- FontAweome CDN Link for Icons-->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
@@ -30,10 +30,32 @@
         https://www.youtube.com/watch?v=8hrJ4oN1u_8
         How To add a Custom Domain On Github Pages
         https://www.youtube.com/watch?v=mPGi1IHQxFM&t=0s
+        HƯỚNG DẪN ĐƯA ỨNG DỤNG NODEJS LÊN HEROKU (Bài 1)
+        https://www.youtube.com/watch?v=FuwfQlE82qs
+        HƯỚNG DẪN ĐƯA ỨNG DỤNG NODEJS LÊN HEROKU (Bài 2)
+        https://www.youtube.com/watch?v=Wv6dmrdI_Zc
     */ -->
   </head>
   <body>
-    <div class="container .container-sm">
+    <div class="container .container-sm" id="containerId">
+      <!-- Spinnner -->
+      <div class="spinner" style="width: 10em; height: 10em">
+        <div class="btn">
+          <span
+            id="spinnerCircle"
+            class="spinner-border spinner-border-sm"
+            role="status"
+            aria-hidden="true"
+            style="display: none"
+          ></span>
+          <span
+            id="spinnerText"
+            style="display: none; width: 10em; color: white"
+            >Make the test...</span
+          >
+        </div>
+      </div>
+
       <!-- start Quiz button -->
       <div class="start_btn">
         <button class="btn btn-primary btn-lg">Start Quiz</button>
@@ -68,12 +90,12 @@
       <!-- Quiz Box -->
       <div class="quiz_box">
         <header>
-          <div class="title">Awesome Quiz Application</div>
+          <div class="title">TOIEC Quiz Application</div>
           <div class="timer">
             <div class="time_left_txt">Time Left</div>
             <div class="timer_sec">15</div>
           </div>
-          <!-- <div class="time_line"></div> -->
+          <div class="time_line"></div>
         </header>
 
         <section>
@@ -96,8 +118,6 @@
           <button class="next_btn">Next Que</button>
         </footer>
 
-        <hr />
-
         <!-- accordion of Quiz Box -->
         <div class="accordion" id="accordionExample" style="display: none">
           <div class="card">
@@ -109,34 +129,17 @@
                   data-toggle="collapse"
                   data-target="#collapseOne"
                 >
-                  1. What is HTML?
+                  1. Explain
                 </button>
               </h2>
             </div>
             <div
               id="collapseOne"
-              class="collapse"
+              class="collapse explainshow"
               aria-labelledby="headingOne"
               data-parent="#accordionExample"
             >
-              <div class="card-body">
-                <p>
-                  HTML stands for HyperText Markup Language. HTML is the
-                  standard markup language for describing the structure of web
-                  pages.
-                  <a
-                    href="https://www.tutorialrepublic.com/html-tutorial/"
-                    target="_blank"
-                    >Learn more.</a
-                  >
-                </p>
-                <iframe
-                  src="https://quizlet.com/604644894/spell/embed?i=1txlzk&x=1jj1"
-                  height="500"
-                  width="100%"
-                  style="border: 0"
-                ></iframe>
-              </div>
+              <div class="card-body explainquestion"></div>
             </div>
           </div>
           <div class="card">
@@ -148,7 +151,7 @@
                   data-toggle="collapse"
                   data-target="#collapseTwo"
                 >
-                  2. What is Bootstrap?
+                  2. Practice
                 </button>
               </h2>
             </div>
@@ -159,16 +162,12 @@
               data-parent="#accordionExample"
             >
               <div class="card-body">
-                <p>
-                  Bootstrap is a sleek, intuitive, and powerful front-end
-                  framework for faster and easier web development. It is a
-                  collection of CSS and HTML conventions.
-                  <a
-                    href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/"
-                    target="_blank"
-                    >Learn more.</a
-                  >
-                </p>
+                <iframe
+                  src="https://quizlet.com/604644894/spell/embed?i=1txlzk&x=1jj1"
+                  height="500"
+                  width="100%"
+                  style="border: 0"
+                ></iframe>
               </div>
             </div>
           </div>
@@ -181,7 +180,7 @@
                   data-toggle="collapse"
                   data-target="#collapseThree"
                 >
-                  3. What is CSS?
+                  3. Comment and Survey?
                 </button>
               </h2>
             </div>
@@ -192,16 +191,7 @@
               data-parent="#accordionExample"
             >
               <div class="card-body">
-                <p>
-                  CSS stands for Cascading Style Sheet. CSS allows you to
-                  specify various style properties for a given HTML element such
-                  as colors, backgrounds, fonts etc.
-                  <a
-                    href="https://www.tutorialrepublic.com/css-tutorial/"
-                    target="_blank"
-                    >Learn more.</a
-                  >
-                </p>
+                <p></p>
               </div>
             </div>
           </div>

@@ -1,21 +1,940 @@
-
 {
-   "dictionary": [
-       {
-           "vocab": "volunteer",
-           "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vol/volun/volunteer__gb_1.mp3",
-           "voice_a": "Reporter",
-           "meaning": "Tình nguyện viên",
-		   "word_type": "Noun",
-		   "phonetic": "/ˌvɒlənˈtɪə(r)/"
-       },
-       {
-           "vocab": "fitness",
-           "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fit/fitne/fitness__gb_1.mp3",
-           "voice_a": "Reporter",
-           "meaning": "Thể dục",
-		   "word_type": "Noun",
-		   "phonetic": "/ˈfɪtnəs/"
-       }
-   ]
+  "dictionary": [
+    {
+      "vocab": "attend",
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/vol/volun/volunteer__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/attend?q=attend",
+      "meaning": "Tình nguyện viên",
+      "word_type": "Noun",
+      "phonetic": "/ˌvɒlənˈtɪə(r)/"
+    },
+    {
+      "vocab": "conference",
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconference__gb_1.mp3",
+      "link": "",
+      "meaning": "hội nghị",
+      "word_type": "noun",
+      "phonetic": "/ˈkɒnfərəns/"
+    },
+    {
+      "vocab": "population",
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pop/popul/population__gb_3.mp3",
+      "link": "",
+      "meaning": "dân số",
+      "word_type": "noun",
+      "phonetic": "/ˌpɒpjuˈleɪʃn/"
+    },
+    {
+      "vocab": "congratulate",
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcong/xcongratulate__gb_1.mp3",
+      "link": "",
+      "meaning": "Chúc mừng",
+      "word_type": "verb",
+      "phonetic": "/kənˈɡrætʃəleɪt/"
+    },
+    {
+      "vocab": "producer",
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/produ/producer__gb_1.mp3",
+      "link": "",
+      "meaning": "người sản xuất",
+      "word_type": "noun",
+      "phonetic": "/prəˈdjuːsə(r)/"
+    },
+    {
+      "vocab": "facility",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "demand",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "release",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "content",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "addition",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "pictures",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "promotion",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "manual",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "auditorium",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "except",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "inside",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "without",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "through",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "judges",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "competition",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "represent",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "representative",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "extensive",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "punctual",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "prospective",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "accepted",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "revise",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "residents",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "preserve",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "historic",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "property",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "whether",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "propose",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "advertise",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "campaign",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "innovate",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "innovative",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "innovation",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "announce",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "complex",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "chief",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "supply",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "responsibility",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "invoice",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "retirement",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "facility",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "resume",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "compete",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "recruit",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "conduct",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "contribution",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "acknowledge",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "favor",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "favorably",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "favorable",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "mentor",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "Onto",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "Unlike",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "About",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "Upon",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "qualification",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "slight",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "equal",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "obliged",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "essential",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "eliminate",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "rarely",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "seek",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "loan",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "efficient",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "legal",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "prediction",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "courtesy",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "reputation",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "statement",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "held",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "rehearsal",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "performance",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "scene",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "considerably",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "nevertheless",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "laboratory",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "rapid",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "growth",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "assign",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "investigate",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "experience",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "accommodate",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "quarter",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "profitable",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "profiting",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "profitability",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "profitably",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "ideal",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "venue",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "conference",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "achievement",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "proximity",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "competence",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "exception",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "responsibility",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "payroll",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "function",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "adequate",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "purpose",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "Rather",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "Seldom",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "However",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "Thoroughly",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "digital",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "exhibition",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "reduced",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "unveiled",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "consulted",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "resolved",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "Community",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    },
+    {
+      "vocab": "implement",
+      "voice_e": "",
+      "link": "",
+      "meaning": "",
+      "word_type": "",
+      "phonetic": ""
+    }
+  ]
 }
