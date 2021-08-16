@@ -51,7 +51,7 @@
           <span
             id="spinnerText"
             style="display: none; width: 10em; color: white"
-            >Make the test...</span
+            >Make the quiz...</span
           >
         </div>
       </div>
@@ -59,6 +59,117 @@
       <!-- start Quiz button -->
       <div class="start_btn">
         <button class="btn btn-primary btn-lg">Start Quiz</button>
+      </div>
+
+      <!-- https://labianlabs.com/2020/02/06/day-ly-do-vi-sao-ban-khong-the-nho-tu-vung/ -->
+      <!-- https://collegeinfogeek.com/spaced-repetition-memory-technique/
+      https://robertmoszczynski.com/leitner-system
+      https://zim.vn/hoc-tu-vung-bang-phuong-phap-lap-lai-ngat-quang -->
+      <!-- https://fluent-forever.com/wp-content/uploads/2014/05/LeitnerSchedule.pdf -->
+
+      <!-- The Game Schedule -->
+      <div class="info_box_intro">
+        <div class="info-title">
+          <span>Introduction</span>
+        </div>
+        <div class="info-list">
+          <div class="info">
+            <h6>
+              Please spend more time reading the below articles for more
+              information before starting the quiz...
+            </h6>
+          </div>
+          <hr />
+          <div class="info">
+            <a
+              href="https://collegeinfogeek.com/spaced-repetition-memory-technique/"
+              target="_blank"
+              ><h5>
+                How to Remember More of What You Learn with Spaced Repetition
+              </h5></a
+            >
+          </div>
+          <hr />
+          <div class="info">
+            <a
+              href="https://robertmoszczynski.com/leitner-system"
+              target="_blank"
+              ><h5>The Leitner System: How to Remember Everything</h5></a
+            >
+          </div>
+          <hr />
+          <div class="info">
+            <a
+              href="https://labianlabs.com/2020/02/06/day-ly-do-vi-sao-ban-khong-the-nho-tu-vung/"
+              target="_blank"
+              ><h5>Lý do vì sao bạn không thể nhớ từ vựng</h5></a
+            >
+          </div>
+          <hr />
+          <div class="info">
+            <a
+              href="https://zim.vn/hoc-tu-vung-bang-phuong-phap-lap-lai-ngat-quang"
+              target="_blank"
+              ><h5>Học từ vựng bằng phương pháp lặp lại ngắt quãng</h5></a
+            >
+          </div>
+          <hr />
+          <div class="info">
+            <a
+              href="https://fluent-forever.com/wp-content/uploads/2014/05/LeitnerSchedule.pdf"
+              target="_blank"
+              ><h5>LeitnerSchedule.pdf</h5></a
+            >
+          </div>
+        </div>
+        <div class="buttons">
+          <button class="quit">Exit Quiz</button>
+          <button class="restart">Continue</button>
+        </div>
+      </div>
+
+      <!-- The Game Schedule -->
+      <div class="info_box_schedule">
+        <div class="info-title">
+          <span>Leitner Boxes Rule</span>
+        </div>
+        <div class="info-list">
+          <div class="info">
+            <h5>Day 0: <a href="#" onclick="chooseTest(1)">| Test 1 |</a></h5>
+          </div>
+          <div class="info">
+            <h5>Day 0: <a href="#" onclick="chooseTest(1)">| Test 1 |</a></h5>
+          </div>
+          <div class="info">
+            <h5>
+              Day 1: <a href="#" onclick="chooseTest(1)">| Test 1 | </a>
+              <a href="#" onclick="chooseTest(2)">Test 2 | </a>
+            </h5>
+          </div>
+          <div class="info">
+            <h5>
+              Day 2: <a href="#" onclick="chooseTest(1)">| Test 1 | </a>
+              <a href="#" onclick="chooseTest(3)">Test 3 | </a>
+            </h5>
+          </div>
+          <div class="info">
+            <h5>
+              Day 3: <a href="#" onclick="chooseTest(2)">| Test 2 | </a>
+              <a href="#" onclick="chooseTest(3)">Test 3 | </a>
+              <a href="#" onclick="chooseTest(4)">Test 4 | </a>
+            </h5>
+          </div>
+          <div class="info">
+            <h5>
+              Day 4: <a href="#" onclick="chooseTest(1)">| Test 1 | </a>
+              <a href="#" onclick="chooseTest(5)">Test 5 | </a>
+            </h5>
+          </div>
+        </div>
+        <!-- <div class="buttons">
+          <button class="quit">Exit Quiz</button>
+          <button class="restart">Continue</button>
+        </div> -->
       </div>
 
       <!-- Info Box -->
@@ -120,6 +231,7 @@
 
         <!-- accordion of Quiz Box -->
         <div class="accordion" id="accordionExample" style="display: none">
+          <!-- Explain result -->
           <div class="card">
             <div class="card-header" id="headingOne">
               <h2 class="mb-0">
@@ -129,7 +241,7 @@
                   data-toggle="collapse"
                   data-target="#collapseOne"
                 >
-                  1. Explain
+                  1. Explain answers
                 </button>
               </h2>
             </div>
@@ -142,6 +254,7 @@
               <div class="card-body explainquestion"></div>
             </div>
           </div>
+          <!-- Learn Vocabulary -->
           <div class="card">
             <div class="card-header" id="headingTwo">
               <h2 class="mb-0">
@@ -151,7 +264,7 @@
                   data-toggle="collapse"
                   data-target="#collapseTwo"
                 >
-                  2. Practice
+                  2. Learn Vocabularies
                 </button>
               </h2>
             </div>
@@ -171,6 +284,7 @@
               </div>
             </div>
           </div>
+          <!-- Improve your pronunciation -->
           <div class="card">
             <div class="card-header" id="headingThree">
               <h2 class="mb-0">
@@ -180,7 +294,7 @@
                   data-toggle="collapse"
                   data-target="#collapseThree"
                 >
-                  3. Comment and Survey?
+                  3. Improve your pronunciation
                 </button>
               </h2>
             </div>
@@ -191,7 +305,56 @@
               data-parent="#accordionExample"
             >
               <div class="card-body">
-                <p></p>
+                <a
+                  id="yg-widget-0"
+                  class="youglish-widget"
+                  data-query="great%20power"
+                  data-lang="english"
+                  data-zones="all,us,uk,aus"
+                  data-components="8415"
+                  data-bkg-color="theme_light"
+                  rel="nofollow"
+                  href="https://youglish.com"
+                  >Visit YouGlish.com</a
+                >
+                <script
+                  async
+                  src="https://youglish.com/public/emb/widget.js"
+                  charset="utf-8"
+                ></script>
+              </div>
+            </div>
+          </div>
+          <!-- Users Feedback -->
+          <div class="card">
+            <div class="card-header" id="headingFour">
+              <h2 class="mb-0">
+                <button
+                  type="button"
+                  class="btn btn-link collapsed"
+                  data-toggle="collapse"
+                  data-target="#collapseFour"
+                >
+                  4. Users Feedback
+                </button>
+              </h2>
+            </div>
+            <div
+              id="collapseFour"
+              class="collapse"
+              aria-labelledby="headingFour"
+              data-parent="#accordionExample"
+            >
+              <div class="card-body">
+                <iframe
+                  src="https://docs.google.com/forms/d/e/1FAIpQLScapXyx1t2XoU6OAXcfL6YAxgo6Wi9zKFwF70MFMWPC4R4CmQ/viewform?embedded=true"
+                  width="100%"
+                  height="1161"
+                  frameborder="0"
+                  marginheight="0"
+                  marginwidth="0"
+                  >Loading…</iframe
+                >
               </div>
             </div>
           </div>

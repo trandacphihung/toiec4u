@@ -1,8 +1,15 @@
 //selecting all required elements
 const start_btn = document.querySelector(".start_btn button");
 const info_box = document.querySelector(".info_box");
+const info_box_schedule = document.querySelector(".info_box_schedule");
+const info_box_intro = document.querySelector(".info_box_intro");
 const exit_btn = info_box.querySelector(".buttons .quit");
+const exit_btn_schedule = info_box_schedule.querySelector(".buttons .quit");
+const exit_btn_intro = info_box_intro.querySelector(".buttons .quit");
 const continue_btn = info_box.querySelector(".buttons .restart");
+const continue_btn_schedule =
+  info_box_schedule.querySelector(".buttons .restart");
+const continue_btn_intro = info_box_intro.querySelector(".buttons .restart");
 const quiz_box = document.querySelector(".quiz_box");
 const result_box = document.querySelector(".result_box");
 const option_list = document.querySelector(".option_list");
@@ -12,16 +19,71 @@ const timeCount = document.querySelector(".timer .timer_sec");
 const spinnerCircle = document.getElementById("spinnerCircle");
 const spinnerText = document.getElementById("spinnerText");
 let indexques;
+let questions;
+
+// Choose test
+function chooseTest(value) {
+  info_box_schedule.classList.remove("activeInfo"); //hide info box one
+
+  info_box.classList.add("activeInfo"); //show info box
+
+  switch (value) {
+    case 1:
+      questions = questions1;
+      break;
+    case 2:
+      questions = questions2;
+      break;
+    case 3:
+      questions = questions3;
+      break;
+    case 4:
+      questions = questions4;
+      break;
+    case 5:
+      questions = questions5;
+      break;
+    case 6:
+      questions = questions6;
+      break;
+    default:
+      break;
+  }
+}
 
 // if startQuiz button clicked
 start_btn.onclick = () => {
-  info_box.classList.add("activeInfo"); //show info box
+  info_box_intro.classList.add("activeInfo"); //show info box
 };
 
 // if exitQuiz button clicked
 exit_btn.onclick = () => {
   info_box.classList.remove("activeInfo"); //hide info box
 };
+
+// if exitQuiz button clicked
+// exit_btn_schedule.onclick = () => {
+//   info_box_schedule.classList.remove("activeInfo"); //hide info box
+// };
+
+// if exitQuiz button clicked
+exit_btn_intro.onclick = () => {
+  info_box_intro.classList.remove("activeInfo"); //hide info box
+};
+
+// if continueQuiz button clicked
+continue_btn_intro.onclick = async () => {
+  info_box_intro.classList.remove("activeInfo"); //hide info box one
+
+  info_box_schedule.classList.add("activeInfo"); //show info box
+};
+
+// if continueQuiz button clicked
+// continue_btn_schedule.onclick = async () => {
+//   info_box_schedule.classList.remove("activeInfo"); //hide info box one
+
+//   info_box.classList.add("activeInfo"); //show info box
+// };
 
 // if continueQuiz button clicked
 continue_btn.onclick = async () => {
@@ -52,8 +114,6 @@ let userScore = 0;
 let counter;
 let counterLine;
 let widthValue = 0;
-let questions;
-questions = questions1;
 
 const restart_quiz = result_box.querySelector(".buttons .restart");
 const quit_quiz = result_box.querySelector(".buttons .quit");
@@ -371,18 +431,18 @@ async function getVolcabInfo(index) {
     var listofvocabRender = listofvocab;
 
     for (let j = 0; j < a; j++) {
-      contentDetail =
-        "<h3>" +
-        listofvocabRender[j] +
-        "</h3><hr><span>" +
-        listofmeaning[j] +
-        "</span><hr><span>" +
-        listofwordtype[j] +
-        "</span><hr><span>" +
-        listofphonetic[j] +
-        '</span><hr><a href="#" class ="aud-' +
-        listofvocabRender[j] +
-        '"><img src="https://trandacphihung.github.io/toiec4u/image/audio_name_initial.svg" alt=""></a>';
+      contentDetail = `<h3>${listofvocabRender[j]}</h3>
+      <hr>
+      <span>${listofmeaning[j]}</span>
+      <hr>
+      <span>${listofwordtype[j]}</span>
+      <hr>
+      <span>${listofphonetic[j]}</span>
+      <hr>
+      <a href="#" class ="aud-${listofvocabRender[j]}"><img src="/image/audio_name_initial.svg" alt=""></a>
+      <hr>
+      <a href="${listoflink[j]}" target="_blank">More...</a>
+      `;
 
       contentDetailList.push(contentDetail);
 

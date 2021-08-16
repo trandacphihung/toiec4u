@@ -60,6 +60,9 @@ let questions1 = [
     <br>
     `,
   },
+];
+
+let questions2 = [
   {
     numb: 6,
     question: `The ------- of videos to electronic press <a href="#" data-toggle="popover-release">releases</a> can help companies showcase their products
@@ -153,6 +156,9 @@ let questions1 = [
     <br>
     `,
   },
+];
+
+let questions3 = [
   {
     numb: 11,
     question: `Remember to check the spelling of Mr. Kamashi's name when ----- the document
@@ -230,6 +236,9 @@ let questions1 = [
     <br>
     `,
   },
+];
+
+let questions4 = [
   {
     numb: 16,
     question: `In preparation for Mr. Kumar's <a href="#" data-toggle="popover-retirement">retirement</a> at the end of March, the Carolex Corporation will need to ----- a new 
@@ -315,6 +324,9 @@ let questions1 = [
     <br>
     `,
   },
+];
+
+let questions5 = [
   {
     numb: 21,
     question: `Ms. Delgado would like to meet with all <a href="#" data-toggle="popover-loan">loan</a> officers ------- reviewing any more loan applications.`,
@@ -419,6 +431,9 @@ let questions1 = [
     <br>
     `,
   },
+];
+
+let questions6 = [
   {
     numb: 26,
     question: `The Williamsport Hotel is an <a href="#" data-toggle="popover-ideal">ideal</a> 
@@ -511,30 +526,4 @@ let questions1 = [
     <br>
     `,
   },
-  // {
-  //   numb: ,
-  //   question:``,
-  //   answer: "",
-  //   options: ["", "", "", ""],
-  //   explain: `
-
-  //   <br>
-
-  //   <br>
-  //   `,
-  // },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
-
-  //   {
-  //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
-  //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
-  //   ]
-  // },
 ];

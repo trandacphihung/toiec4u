@@ -6,12 +6,12 @@
       "link": "https://www.oxfordlearnersdictionaries.com/definition/english/attend?q=attend",
       "meaning": "Tình nguyện viên",
       "word_type": "Noun",
-      "phonetic": "/ˌvɒlənˈtɪə(r)/"
+      "phonetic": "/əˈtend/"
     },
     {
       "vocab": "conference",
       "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconference__gb_1.mp3",
-      "link": "",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/conference?q=conference",
       "meaning": "hội nghị",
       "word_type": "noun",
       "phonetic": "/ˈkɒnfərəns/"
@@ -19,7 +19,7 @@
     {
       "vocab": "population",
       "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pop/popul/population__gb_3.mp3",
-      "link": "",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/population?q=population",
       "meaning": "dân số",
       "word_type": "noun",
       "phonetic": "/ˌpɒpjuˈleɪʃn/"
@@ -27,7 +27,7 @@
     {
       "vocab": "congratulate",
       "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcong/xcongratulate__gb_1.mp3",
-      "link": "",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/congratulate?q=congratulate",
       "meaning": "Chúc mừng",
       "word_type": "verb",
       "phonetic": "/kənˈɡrætʃəleɪt/"
@@ -35,114 +35,114 @@
     {
       "vocab": "producer",
       "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/produ/producer__gb_1.mp3",
-      "link": "",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/producer?q=producer",
       "meaning": "người sản xuất",
       "word_type": "noun",
       "phonetic": "/prəˈdjuːsə(r)/"
     },
     {
       "vocab": "facility",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fac/facil/facility__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/facility?q=facility",
+      "meaning": "cơ sở",
+      "word_type": "noun",
+      "phonetic": "/fəˈsɪləti/"
     },
     {
       "vocab": "demand",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dem/deman/demand__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/demand_1?q=demand",
+      "meaning": "nhu cầu",
+      "word_type": "noun",
+      "phonetic": "/dɪˈmɑːnd/"
     },
     {
       "vocab": "release",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rel/relea/release__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/release_1?q=release",
+      "meaning": "phát hành",
+      "word_type": "verb",
+      "phonetic": "/rɪˈliːs/"
     },
     {
       "vocab": "content",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontent__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/content1?q=content",
+      "meaning": "nội dung",
+      "word_type": "noun",
+      "phonetic": "/ˈkɒntent/"
     },
     {
       "vocab": "addition",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/add/addit/additional__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/additional?q=additional",
+      "meaning": "thêm vào",
+      "word_type": "adjective",
+      "phonetic": "/əˈdɪʃənl/"
     },
     {
-      "vocab": "pictures",
+      "vocab": "picture",
       "voice_e": "",
       "link": "",
       "meaning": "",
-      "word_type": "",
+      "word_type": "noun",
       "phonetic": ""
     },
     {
       "vocab": "promotion",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pic/pictu/picture__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/picture_1?q=picture",
+      "meaning": "bức ảnh",
+      "word_type": "noun",
+      "phonetic": "/ˈpɪktʃə(r)/"
     },
     {
       "vocab": "manual",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/man/manua/manual__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/manual_1?q=manual",
+      "meaning": "thủ công",
+      "word_type": "adjective",
+      "phonetic": "/ˈmænjuəl/"
     },
     {
       "vocab": "auditorium",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/aud/audit/auditorium__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/auditorium?q=auditorium",
+      "meaning": "khán phòng",
+      "word_type": "noun",
+      "phonetic": "/ˌɔːdɪˈtɔːriəm/"
     },
     {
       "vocab": "except",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exc/excep/except__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/except_1?q=except",
+      "meaning": "ngoại trừ",
+      "word_type": "preposition",
+      "phonetic": "/ɪkˈsept/"
     },
     {
       "vocab": "inside",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ins/insid/inside__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/inside_1?q=inside",
+      "meaning": "phía trong",
+      "word_type": "preposition",
+      "phonetic": "/ˌɪnˈsaɪd/"
     },
     {
       "vocab": "without",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/wit/witho/without__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/without_1?q=without",
+      "meaning": "không có",
+      "word_type": "preposition",
+      "phonetic": "/wɪˈðaʊt/"
     },
     {
       "vocab": "through",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/thr/throu/through__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/through_1?q=through",
+      "meaning": "ngang qua",
+      "word_type": "preposition",
+      "phonetic": "/θruː/"
     },
     {
       "vocab": "judges",
