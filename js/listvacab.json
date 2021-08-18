@@ -146,795 +146,795 @@
     },
     {
       "vocab": "judges",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/j/jud/judge/judge__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/judge_1?q=judge",
+      "meaning": "thẩm phán",
+      "word_type": "noun",
+      "phonetic": "/dʒʌdʒ/"
     },
     {
       "vocab": "competition",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/competition__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/competition?q=competition",
+      "meaning": "cuộc thi",
+      "word_type": "noun",
+      "phonetic": "/ˌkɒmpəˈtɪʃn/"
     },
     {
       "vocab": "represent",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repre/represent__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/represent?q=represent",
+      "meaning": "đại diện",
+      "word_type": "verb",
+      "phonetic": "/ˌreprɪˈzent/"
     },
     {
       "vocab": "representative",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/repre/representative__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/representative_1?q=representative",
+      "meaning": "thay mặt",
+      "word_type": "noun",
+      "phonetic": "/ˌreprɪˈzentətɪv/"
     },
     {
       "vocab": "extensive",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ext/exten/extensive__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/extensive?q=extensive",
+      "meaning": "sâu rộng",
+      "word_type": "adjective",
+      "phonetic": "/ɪkˈstensɪv/"
     },
     {
       "vocab": "punctual",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pun/punct/punctual__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/punctual?q=punctual",
+      "meaning": "đúng giờ",
+      "word_type": "adjective",
+      "phonetic": "/ˈpʌŋktʃuəl/"
     },
     {
       "vocab": "prospective",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/prosp/prospective__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/prospective?q=prospective",
+      "meaning": "có triển vọng",
+      "word_type": "adjective",
+      "phonetic": "/prəˈspektɪv/"
     },
     {
       "vocab": "accepted",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
-    },
-    {
-      "vocab": "revise",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accep/accepted__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/accepted?q=accepted",
+      "meaning": "Đã được chấp nhận",
+      "word_type": "adjective",
+      "phonetic": "/əkˈseptɪd/"
     },
     {
       "vocab": "residents",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resid/resident__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/resident_1?q=residents",
+      "meaning": "cư dân",
+      "word_type": "noun",
+      "phonetic": "/ˈrezɪdənt/"
+    },
+    {
+      "vocab": "revise",
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rev/revis/revise__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/revise?q=revise",
+      "meaning": "ôn lại",
+      "word_type": "verb",
+      "phonetic": "/rɪˈvaɪz/"
     },
     {
       "vocab": "preserve",
-      "voice_e": "",
-      "link": "",
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/prese/preserve__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/preserve_1?q=preserve",
       "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "word_type": "verb",
+      "phonetic": "/prɪˈzɜːv/"
     },
     {
       "vocab": "historic",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/his/histo/historic__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/historic?q=historic",
+      "meaning": "mang tính lịch sử",
+      "word_type": "adjective",
+      "phonetic": "/hɪˈstɒrɪk/"
     },
     {
       "vocab": "property",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/prope/property__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/property?q=property",
+      "meaning": "tài sản",
+      "word_type": "noun",
+      "phonetic": "/ˈprɒpəti/"
     },
     {
       "vocab": "whether",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/w/whe/wheth/whether__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/whether?q=whether",
+      "meaning": "liệu là",
+      "word_type": "conjunction",
+      "phonetic": "/ˈweðə(r)/"
     },
     {
       "vocab": "propose",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/propo/propose__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/propose?q=propose",
+      "meaning": "đề xuất",
+      "word_type": "verb",
+      "phonetic": "/prəˈpəʊz/"
     },
     {
       "vocab": "advertise",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/adv/adver/advertise__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/advertise?q=advertise",
+      "meaning": "Quảng cáo",
+      "word_type": "verb",
+      "phonetic": "/ˈædvətaɪz/"
     },
     {
       "vocab": "campaign",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cam/campa/campaign__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/campaign_1?q=campaign",
+      "meaning": "chiến dịch",
+      "word_type": "noun",
+      "phonetic": "/kæmˈpeɪn/"
     },
     {
       "vocab": "innovate",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inn/innov/innovate__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/innovate?q=innovate",
+      "meaning": "đổi mới",
+      "word_type": "verb",
+      "phonetic": "/ˈɪnəveɪt/"
     },
     {
       "vocab": "innovative",
       "voice_e": "",
       "link": "",
       "meaning": "",
-      "word_type": "",
+      "word_type": "adjective",
       "phonetic": ""
     },
     {
       "vocab": "innovation",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inn/innov/innovative__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/innovative?q=innovative",
+      "meaning": "sáng tạo",
+      "word_type": "adjective",
+      "phonetic": "/ˈɪnəveɪtɪv/"
     },
     {
       "vocab": "announce",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ann/annou/announce__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/announce?q=announce",
+      "meaning": "thông báo",
+      "word_type": "verb",
+      "phonetic": "/əˈnaʊns/"
     },
     {
       "vocab": "complex",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compl/complex__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/complex_1?q=complex",
+      "meaning": "phức tạp",
+      "word_type": "adjective",
+      "phonetic": "/ˈkɒmpleks/"
     },
     {
       "vocab": "chief",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/chi/chief/chief__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/chief_1?q=chief",
+      "meaning": "trưởng phòng",
+      "word_type": "adjective",
+      "phonetic": "/tʃiːf/"
     },
     {
       "vocab": "supply",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sup/suppl/supply__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/supply_1?q=supply",
+      "meaning": "cung cấp",
+      "word_type": "noun",
+      "phonetic": "/səˈplaɪ/"
     },
     {
       "vocab": "responsibility",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/respo/responsibility__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/responsibility?q=responsibility",
+      "meaning": "trách nhiệm",
+      "word_type": "noun",
+      "phonetic": "/rɪˌspɒnsəˈbɪləti/"
     },
     {
       "vocab": "invoice",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/invoi/invoice__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/invoice_1?q=invoice",
+      "meaning": "hóa đơn",
+      "word_type": "noun",
+      "phonetic": "/ˈɪnvɔɪs/"
     },
     {
       "vocab": "retirement",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/ret/retir/retirement__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/retirement?q=retirement",
+      "meaning": "sự nghỉ hưu",
+      "word_type": "noun",
+      "phonetic": "/rɪˈtaɪəmənt/"
     },
     {
       "vocab": "facility",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fac/facil/facility__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/facility?q=facility",
+      "meaning": "cơ sở",
+      "word_type": "noun",
+      "phonetic": "/fəˈsɪləti/"
     },
     {
       "vocab": "resume",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resum/resume__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/resume_1?q=resume",
+      "meaning": "hồ sơ cá nhân",
+      "word_type": "verb",
+      "phonetic": "/rɪˈzjuːm/"
     },
     {
       "vocab": "compete",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/compete__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/compete?q=compete",
+      "meaning": "cạnh tranh",
+      "word_type": "verb",
+      "phonetic": "/kəmˈpiːt/"
     },
     {
       "vocab": "recruit",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rec/recru/recruit__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/recruit_1?q=recruit",
+      "meaning": "tuyển dụng",
+      "word_type": "verb",
+      "phonetic": "/rɪˈkruːt/"
     },
     {
       "vocab": "conduct",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcond/xconduct__gb_4.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/conduct_1?q=conduct",
+      "meaning": "thực hiện",
+      "word_type": "verb",
+      "phonetic": "/kənˈdʌkt/"
     },
     {
       "vocab": "contribution",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcont/xcontribution__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/contribution?q=contribution",
+      "meaning": "sự đóng góp",
+      "word_type": "noun",
+      "phonetic": "/ˌkɒntrɪˈbjuːʃn/"
     },
     {
       "vocab": "acknowledge",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ack/ackno/acknowledge__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/acknowledge?q=acknowledge",
+      "meaning": "thừa nhận",
+      "word_type": "verb",
+      "phonetic": "/əkˈnɒlɪdʒ/"
     },
     {
       "vocab": "favor",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fav/favou/favourite__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/favourite_1?q=favorite",
+      "meaning": "yêu thích",
+      "word_type": "verb",
+      "phonetic": "/ˈfeɪvərɪt/"
     },
     {
       "vocab": "favorably",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fav/favou/favourably__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/favourably?q=favorably",
+      "meaning": "thuận lợi",
+      "word_type": "adverb",
+      "phonetic": "/ˈfeɪvərəbli/"
     },
     {
       "vocab": "favorable",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fav/favou/favourable__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/favourable?q=favorable",
+      "meaning": "thuận lợi",
+      "word_type": "adjective",
+      "phonetic": "/ˈfeɪvərəbl/"
     },
     {
       "vocab": "mentor",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/m/men/mento/mentor__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/mentor?q=mentor",
+      "meaning": "người cố vấn",
+      "word_type": "noun",
+      "phonetic": "/ˈmentɔː(r)/"
     },
     {
       "vocab": "Onto",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/ont/onto_/onto__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/onto?q=Onto",
+      "meaning": "Trên",
+      "word_type": "preposition",
+      "phonetic": "/ˈɒntu/"
     },
     {
       "vocab": "Unlike",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unl/unlik/unlike__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/unlike_1?q=Unlike",
+      "meaning": "không giống",
+      "word_type": "preposition",
+      "phonetic": "/ˌʌnˈlaɪk/"
     },
     {
       "vocab": "About",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abo/about/about__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/about_1?q=about",
+      "meaning": "về cái gì",
+      "word_type": "preposition",
+      "phonetic": "/əˈbaʊt/"
     },
     {
       "vocab": "Upon",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/upo/upon_/upon__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/upon?q=upon",
+      "meaning": "trên",
+      "word_type": "preposition",
+      "phonetic": "/əˈpɒn/"
     },
     {
       "vocab": "qualification",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quali/qualification__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/qualification?q=qualification",
+      "meaning": "trình độ chuyên môn",
+      "word_type": "noun",
+      "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/"
     },
     {
       "vocab": "slight",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sli/sligh/slight__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/slight_1?q=slight",
+      "meaning": "nhẹ",
+      "word_type": "adjective",
+      "phonetic": "/slaɪt/"
     },
     {
       "vocab": "equal",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/equ/equal/equal__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/equal_1?q=equal",
+      "meaning": "bằng nhau",
+      "word_type": "adjective",
+      "phonetic": "/ˈiːkwəl/"
     },
     {
       "vocab": "obliged",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/o/obl/oblig/obliged__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/obliged?q=obliged",
+      "meaning": "băt buộc",
+      "word_type": "adjective",
+      "phonetic": "/əˈblaɪdʒd/"
     },
     {
       "vocab": "essential",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/ess/essen/essential__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/essential_1?q=essential",
+      "meaning": "cần thiết",
+      "word_type": "adjective",
+      "phonetic": "/ɪˈsenʃl/"
     },
     {
       "vocab": "eliminate",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eli/elimi/eliminate__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/eliminate?q=eliminate",
+      "meaning": "loại bỏ",
+      "word_type": "verb",
+      "phonetic": "/ɪˈlɪmɪneɪt/"
     },
     {
       "vocab": "rarely",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rar/rarel/rarely__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/rarely?q=rarely",
+      "meaning": "ít khi",
+      "word_type": "adverb",
+      "phonetic": "/ˈreəli/"
     },
     {
       "vocab": "seek",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/see/seek_/seek__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/seek?q=seek",
+      "meaning": "tìm kiếm",
+      "word_type": "verb",
+      "phonetic": "/siːk/"
     },
     {
       "vocab": "loan",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/loa/loan_/loan__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/loan_1?q=loan",
+      "meaning": "khoản vay",
+      "word_type": "noun",
+      "phonetic": "/ləʊn/"
     },
     {
       "vocab": "efficient",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/eff/effic/efficient__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/efficient?q=efficient",
+      "meaning": "Có hiệu quả",
+      "word_type": "adjective",
+      "phonetic": "/ɪˈfɪʃnt/"
     },
     {
       "vocab": "legal",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/leg/legal/legal__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/legal?q=legal",
+      "meaning": "hợp pháp",
+      "word_type": "adjective",
+      "phonetic": "/ˈliːɡl/"
     },
     {
       "vocab": "prediction",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pre/predi/prediction__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/prediction?q=prediction",
+      "meaning": "sự dự đoán",
+      "word_type": "noun",
+      "phonetic": "/prɪˈdɪkʃn/"
     },
     {
       "vocab": "courtesy",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/cou/court/courtesy__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/courtesy_1?q=courtesy",
+      "meaning": "lịch sự",
+      "word_type": "noun",
+      "phonetic": "/ˈkɜːtəsi/"
     },
     {
       "vocab": "reputation",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rep/reput/reputation__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/reputation?q=reputation",
+      "meaning": "danh tiếng",
+      "word_type": "noun",
+      "phonetic": "/ˌrepjuˈteɪʃn/"
     },
     {
       "vocab": "statement",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sta/state/statement__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/statement_1?q=statement",
+      "meaning": "tuyên bố",
+      "word_type": "noun",
+      "phonetic": "/ˈsteɪtmənt/"
     },
     {
       "vocab": "held",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/hel/held_/held__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/held?q=held",
+      "meaning": "được tổ chức",
+      "word_type": "verb",
+      "phonetic": "/held/"
     },
     {
       "vocab": "rehearsal",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/reh/rehea/rehearsal__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/rehearsal?q=rehearsal",
+      "meaning": "sự diển thử",
+      "word_type": "noun",
+      "phonetic": "/rɪˈhɜːsl/"
     },
     {
       "vocab": "performance",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/per/perfo/performance__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/performance?q=performance",
+      "meaning": "buổi diễn",
+      "word_type": "noun",
+      "phonetic": "/pəˈfɔːməns/"
     },
     {
       "vocab": "scene",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sce/scene/scene__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/scene?q=scene",
+      "meaning": "bối cảnh",
+      "word_type": "noun",
+      "phonetic": "/siːn/"
     },
     {
       "vocab": "considerably",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsiderably__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/considerably?q=considerably",
+      "meaning": "đáng kể",
+      "word_type": "adverb",
+      "phonetic": "/kənˈsɪdərəbli/"
     },
     {
       "vocab": "nevertheless",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/n/nev/never/nevertheless__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/nevertheless?q=nevertheless",
+      "meaning": "Tuy nhiên",
+      "word_type": "adverb",
+      "phonetic": "/ˌnevəðəˈles/"
     },
     {
       "vocab": "laboratory",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/l/lab/labor/laboratory__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/laboratory?q=laboratory",
+      "meaning": "phòng thí nghiệm",
+      "word_type": "noun",
+      "phonetic": "/ləˈbɒrətri/"
     },
     {
       "vocab": "rapid",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rap/rapid/rapid__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/rapid?q=rapid",
+      "meaning": "nhanh",
+      "word_type": "adjective",
+      "phonetic": "/ˈræpɪd/"
     },
     {
       "vocab": "growth",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/g/gro/growt/growth__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/growth?q=growth",
+      "meaning": "sự phát triển",
+      "word_type": "noun",
+      "phonetic": "/ɡrəʊθ/"
     },
     {
       "vocab": "assign",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ass/assig/assign__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/assign?q=assign",
+      "meaning": "phân công",
+      "word_type": "verb",
+      "phonetic": "/əˈsaɪn/"
     },
     {
       "vocab": "investigate",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/inv/inves/investigate__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/investigate?q=investigate",
+      "meaning": "điều tra",
+      "word_type": "verb",
+      "phonetic": "/ɪnˈvestɪɡeɪt/"
     },
     {
       "vocab": "experience",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exp/exper/experience__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/experience_1?q=experience",
+      "meaning": "kinh nghiệm",
+      "word_type": "noun",
+      "phonetic": "/ɪkˈspɪəriəns/"
     },
     {
       "vocab": "accommodate",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/acc/accom/accommodate__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/accommodate?q=accommodate",
+      "meaning": "cung cấp",
+      "word_type": "verb",
+      "phonetic": "/əˈkɒmədeɪt/"
     },
     {
       "vocab": "quarter",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/q/qua/quart/quarter__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/quarter_1?q=quarter",
+      "meaning": "quý",
+      "word_type": "noun",
+      "phonetic": "/ˈkwɔːtə(r)/"
     },
     {
       "vocab": "profitable",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/profi/profitable__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/profitable?q=profitable",
+      "meaning": "có lãi",
+      "word_type": "adjective",
+      "phonetic": "/ˈprɒfɪtəbl/"
     },
     {
       "vocab": "profiting",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/profi/profit__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/profit_2?q=profiting",
+      "meaning": "thu lợi nhuận",
+      "word_type": "verb",
+      "phonetic": "/ˈprɒfɪt/"
     },
     {
       "vocab": "profitability",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/profi/profitability__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/profitability?q=profitability",
+      "meaning": "lợi nhuận",
+      "word_type": "noun",
+      "phonetic": "/ˌprɒfɪtəˈbɪləti/"
     },
     {
       "vocab": "profitably",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/profi/profitably__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/profitably?q=profitably",
+      "meaning": "profitably",
+      "word_type": "adverb",
+      "phonetic": "/ˈprɒfɪtəbli/"
     },
     {
       "vocab": "ideal",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/ide/ideal/ideal__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/ideal_1?q=ideal",
+      "meaning": "lý tưởng",
+      "word_type": "adjective",
+      "phonetic": "/aɪˈdiːəl/"
     },
     {
       "vocab": "venue",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/v/ven/venue/venue__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/venue?q=venue",
+      "meaning": "địa điểm",
+      "word_type": "noun",
+      "phonetic": "/ˈvenjuː/"
     },
     {
       "vocab": "conference",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xconf/xconference__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/conference?q=conference",
+      "meaning": "hội nghị",
+      "word_type": "noun",
+      "phonetic": "/ˈkɒnfərəns/"
     },
     {
       "vocab": "achievement",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ach/achie/achievement__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/achievement?q=achievement",
+      "meaning": "thành tựu",
+      "word_type": "noun",
+      "phonetic": "/əˈtʃiːvmənt/"
     },
     {
       "vocab": "proximity",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pro/proxi/proximity__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/proximity?q=proximity",
+      "meaning": "sự gần gũi",
+      "word_type": "noun",
+      "phonetic": "/prɒkˈsɪməti/"
     },
     {
       "vocab": "competence",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/compe/competence__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/competence?q=competence",
+      "meaning": "năng lực",
+      "word_type": "noun",
+      "phonetic": "/ˈkɒmpɪtəns/"
     },
     {
       "vocab": "exception",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exc/excep/exception__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/exception?q=exception",
+      "meaning": "ngoại lệ",
+      "word_type": "noun",
+      "phonetic": "/ɪkˈsepʃn/"
     },
     {
       "vocab": "responsibility",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/respo/responsibility__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/responsibility?q=responsibility",
+      "meaning": "responsibility",
+      "word_type": "noun",
+      "phonetic": "/rɪˌspɒnsəˈbɪləti/"
     },
     {
       "vocab": "payroll",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pay/payro/payroll__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/payroll?q=payroll",
+      "meaning": "lương bổng",
+      "word_type": "noun",
+      "phonetic": "/ˈpeɪrəʊl/"
     },
     {
       "vocab": "function",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/f/fun/funct/function__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/function_1?q=function",
+      "meaning": "chức năng",
+      "word_type": "noun",
+      "phonetic": "/ˈfʌŋkʃn/"
     },
     {
       "vocab": "adequate",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/ade/adequ/adequate__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/adequate?q=adequate",
+      "meaning": "đầy đủ",
+      "word_type": "adjective",
+      "phonetic": "/ˈædɪkwət/"
     },
     {
       "vocab": "purpose",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/p/pur/purpo/purpose__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/purpose?q=purpose",
+      "meaning": "mục đích",
+      "word_type": "noun",
+      "phonetic": "/ˈpɜːpəs/"
     },
     {
       "vocab": "Rather",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/rat/rathe/rather__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/rather_1?q=Rather",
+      "meaning": "Hơn là",
+      "word_type": "adverb",
+      "phonetic": "/ˈrɑːðə(r)/"
     },
     {
       "vocab": "Seldom",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/s/sel/seldo/seldom__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/seldom?q=Seldom",
+      "meaning": "Hiếm khi",
+      "word_type": "adverb",
+      "phonetic": "/ˈseldəm/"
     },
     {
       "vocab": "However",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/h/how/howev/however__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/however?q=However",
+      "meaning": "Tuy nhiên",
+      "word_type": "adverb",
+      "phonetic": "/haʊˈevə(r)/"
     },
     {
       "vocab": "Thoroughly",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/t/tho/thoro/thoroughly__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/thoroughly?q=Thoroughly",
+      "meaning": "Triệt để",
+      "word_type": "adverb",
+      "phonetic": "/ˈθʌrəli/"
     },
     {
       "vocab": "digital",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/d/dig/digit/digital__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/digital_1?q=digital",
+      "meaning": "kỹ thuật số",
+      "word_type": "adjective",
+      "phonetic": "/ˈdɪdʒɪtl/"
     },
     {
       "vocab": "exhibition",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/e/exh/exhib/exhibition__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/exhibition?q=exhibition",
+      "meaning": "triển lãm",
+      "word_type": "noun",
+      "phonetic": "/ˌeksɪˈbɪʃn/"
     },
     {
       "vocab": "reduced",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/red/reduc/reduce__gb_2.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/reduce?q=reduced",
+      "meaning": "giảm",
+      "word_type": "verb",
+      "phonetic": "/rɪˈdjuːs/"
     },
     {
       "vocab": "unveiled",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/u/unv/unvei/unveil__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/unveil?q=unveiled",
+      "meaning": "tiết lộ",
+      "word_type": "verb",
+      "phonetic": "/ˌʌnˈveɪl/"
     },
     {
       "vocab": "consulted",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/x/xco/xcons/xconsult__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/consult?q=consulted",
+      "meaning": "đã tham khảo ý kiến",
+      "word_type": "verb",
+      "phonetic": "/kənˈsʌlt/"
     },
     {
       "vocab": "resolved",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/r/res/resol/resolved__gb_1.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/resolved?q=resolved",
+      "meaning": "đã giải quyết",
+      "word_type": "adjective",
+      "phonetic": "/rɪˈzɒlvd/"
     },
     {
       "vocab": "Community",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/c/com/commu/community__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/community?q=Community",
+      "meaning": "Cộng đồng",
+      "word_type": "noun",
+      "phonetic": "/kəˈmjuːnəti/"
     },
     {
       "vocab": "implement",
-      "voice_e": "",
-      "link": "",
-      "meaning": "",
-      "word_type": "",
-      "phonetic": ""
+      "voice_e": "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/i/imp/imple/implement__gb_3.mp3",
+      "link": "https://www.oxfordlearnersdictionaries.com/definition/english/implement_1?q=implement",
+      "meaning": "thực hiện",
+      "word_type": "verb",
+      "phonetic": "/ˈɪmplɪment/"
     }
   ]
 }
